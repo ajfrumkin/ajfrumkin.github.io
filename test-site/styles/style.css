@@ -23,9 +23,9 @@ html {
 body {
   width: 600px;
   margin: 0 auto;
-  background-color: hsla(78, 9%, 78%, 0.452);
+  background-color: hsla(78, 9%, 78%, 0.685);
   padding: 0 20px 20px 20px;
-  border: 5px solid rgb(0, 0, 0);
+  border: 5px solid rgba(0, 0, 0, 0.308);
 }
 
 h1 {
